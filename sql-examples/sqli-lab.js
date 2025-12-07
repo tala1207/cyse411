@@ -21,7 +21,7 @@ const users = [
 ];
 
 const posts = [
-  { id: 1, title: 'Hello', body: 'First post' },
+  { id: 1, title: 'Hell', body: 'First post' },
   { id: 2, title: 'Bye', body: 'Second post' },
 ];
 
